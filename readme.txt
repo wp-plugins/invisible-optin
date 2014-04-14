@@ -16,10 +16,10 @@ Facebook opened up their Re-Marketing Platform to all advertisers from Jan 2014.
 
 The Invisible Optin Plugin helps you integrate Facebook's Re-Marketing Code in your WordPress Website in just few clicks.
 
-If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a Re-Targeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://TheInvisibleOptin.com
+If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a Re-Targeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://TheInvisibleOptin.com/wp
 
 
-To Learn Facebook and Web Re-Targeting from Scratch, visit http://InvisibleOptin.com
+To Learn Facebook and Web Re-Targeting from Scratch, visit http://InvisibleOptin.com/wp
 
 
 
@@ -52,7 +52,7 @@ The Invisible Optin Plugin helps to integrate the Re-Marketing Code given by Fac
 
 Q. Where can i learn Facebook Re-Marketing ?
 
-Visit Http://InvisibleOptin.com
+Visit Http://InvisibleOptin.com/wp
 
 == Screenshots ==
 
