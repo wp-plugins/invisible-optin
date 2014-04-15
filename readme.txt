@@ -8,18 +8,18 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Facebook's Re-Marketing Plugin for WordPress. Use this Plugin to Add Facebook's Re-Targeting Pixels in your WordPress Website.
+Facebook's Re-Targeting Plugin for WordPress. Use this Plugin to Add Facebook's Re-Marketing Pixels in your WordPress Website.
 
 == Description ==
 
-Facebook opened up their Re-Marketing Platform to all advertisers from Jan 2014.
+Facebook opened up their Re-Targeting Platform to all advertisers from Jan 2014.
 
 The Invisible Optin Plugin helps you integrate Facebook's Re-Marketing Code in your WordPress Website in just few clicks.
 
 If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a Re-Targeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://TheInvisibleOptin.com/wp
 
 
-To Learn Facebook and Web Re-Targeting from Scratch, visit http://InvisibleOptin.com/wp
+To Learn Facebook Re-Targeting from Scratch, visit http://InvisibleOptin.com/wp
 
 
 
