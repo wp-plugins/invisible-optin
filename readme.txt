@@ -40,11 +40,11 @@ You can also See the Installation Video on http://TheInvisibleOptin.com/Installa
 
 Q. What is Ads Re-Targeting?
 
-Add's Re-Tagreting is a Strategy using which you can re-engage the visitors of your website using re-targeting Ads.
+Ad's Re-Tagreting is a Strategy using which you can re-engage the visitors of your website by using re-targeting Ads.
 
 Q. How do i Get Started ?
 
-The Easiest Way to get started is by creating a Re-Marketing Custom Audience on Facebook.
+The Easiest Way to get started is by creating a Re-Targeting List using Custom Audience Feature on Facebook.
 
 Q. What does "The Invisible Optin" plugin do ?
 
@@ -52,7 +52,7 @@ The Invisible Optin Plugin helps to integrate the Re-Marketing Code given by Fac
 
 Q. Where can i learn Facebook Re-Marketing ?
 
-Visit Http://InvisibleOptin.com/wp
+Visit http://InvisibleOptin.com/wp
 
 == Screenshots ==
 
