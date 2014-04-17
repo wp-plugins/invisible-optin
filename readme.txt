@@ -1,14 +1,14 @@
 === Plugin Name ===
 Contributors: OffClicks
 Donate link: http://TheInvisibleOptin.com/
-Tags: Facebook, Ads, Custom Audience, Re-Targeting, Re-Marketing, Retargeting, Remarketing, Wordpress, plugin
+Tags: Facebook, Ads, Custom Audience, Re-Targeting, Re-Marketing, learn Retargeting, Remarketing, Wordpress, plugin
 Requires at least: 3.0.1
-Tested up to: 3.8.2
+Tested up to: 3.9.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Facebook's Re-Targeting Plugin for WordPress. Use this Plugin to Add Facebook's Re-Marketing Pixels in your WordPress Website.
+Facebook's ReTargeting Plugin for WordPress. Use this Plugin to Add Facebook's ReMarketing Pixels in your WordPress Website.
 
 == Description ==
 
