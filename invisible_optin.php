@@ -116,7 +116,7 @@ function invisible_optin_add_custom_code($position){
 	if($conf_script_code != ''){
 		echo '<!-- Custom Code Start-->';
 		echo PHP_EOL;
-		echo $conf_script_code;
+		echo stripslashes($conf_script_code);
 		echo PHP_EOL;
 		echo '<!-- Custom Code Start-->';
 		echo PHP_EOL;

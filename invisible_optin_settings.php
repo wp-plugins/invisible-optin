@@ -70,7 +70,7 @@ function invisible_optin_settings_form($msg = null){
 
 	<div class="frm_fields">
 		<h3 style="margin-top: 0px;">Custom Code</h3>(Copy Facebook's Custom Audience Re-Marketing Pixel Code here.)		
-		<textarea name="conf_script_code" id="conf_script_code" rows="15"><?php echo $conf_script_code; ?></textarea>
+		<textarea name="conf_script_code" id="conf_script_code" rows="15"><?php echo stripslashes($conf_script_code); ?></textarea>
 	</div>
 	
 			<p class="submit">
