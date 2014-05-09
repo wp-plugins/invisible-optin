@@ -12,7 +12,7 @@
 		<a href="http://theinvisibleoptin.com/upgrade" target="_blank">
 			<div class="navItem ">Add Campaign</div>	
 		</a>
-		<a href="http://invisibleoptin.com/LearnRetargeting" target="_blank">
+		<a href="http://theinvisibleoptin.com/ioplugin" target="_blank">
 			<div class="navItem ">Learn Re-Targeting</div>	
 		</a>		
 		<a href="http://theinvisibleoptin.com/support" target="_blank">
