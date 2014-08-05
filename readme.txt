@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: OffClicks
-Donate link: http://TheInvisibleOptin.com/
+Donate link: http://likeredirect.com
 Tags: Facebook, Ads, Custom Audience, Re-Targeting, Re-Marketing, learn Retargeting, Remarketing, Wordpress, plugin
 Requires at least: 3.0.1
 Tested up to: 3.9.0
@@ -16,10 +16,10 @@ Facebook opened up their ReTargeting Platform to all advertisers from Jan 2014.
 
 The Invisible Optin Plugin helps you integrate Facebook's ReTargeting Code in your WordPress Website in just few clicks.
 
-If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a ReTargeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://TheInvisibleOptin.com/wp
+If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a ReTargeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://goo.gl/JVb4hx
 
 
-To Learn Facebook Re-Targeting from Scratch, visit http://theinvisibleoptin.com/LearnReTargeting
+To Learn Facebook Re-Targeting from Scratch, visit http://goo.gl/ozEBqh
 
 
 
@@ -34,7 +34,6 @@ This section describes how to install the plugin and get it working.
 3. Copy your the Custom Audience Re-Targeting Code Provided by Facebook here.
 4. Save the Settings.
 
-You can also See the Installation Video on http://TheInvisibleOptin.com/Installation
 
 == Frequently Asked Questions ==
 
@@ -52,11 +51,11 @@ The Invisible Optin Plugin helps to integrate the Re-Marketing Code given by Fac
 
 Q. Where can i learn Facebook Re-Marketing ?
 
-Visit http://InvisibleOptin.com/wp
+Visit http://goo.gl/ozEBqh
 
 == Screenshots ==
 
-Check out the Installation Video on http://TheInvisibleOptin.com/Installation
+Check out the Installation Video on 
 
 == Changelog ==
 

@@ -9,13 +9,13 @@
 			<div class="navItem <?php echo ($_REQUEST['page'] == 'invisible-optin')?'navSelected':'';?>">Global Settings</div>
 		</a>		
 		
-		<a href="http://theinvisibleoptin.com/upgrade" target="_blank">
+		<a href="http://goo.gl/JVb4hx" target="_blank">
 			<div class="navItem ">Add Campaign</div>	
 		</a>
-		<a href="http://theinvisibleoptin.com/ioplugin" target="_blank">
+		<a href="http://goo.gl/ozEBqh" target="_blank">
 			<div class="navItem ">Learn Re-Targeting</div>	
 		</a>		
-		<a href="http://theinvisibleoptin.com/support" target="_blank">
+		<a href="support@iomembers.com" target="_blank">
 			<div class="navItem ">Support</div>	
 		</a>
 		<br clear="left">		
