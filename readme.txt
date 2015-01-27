@@ -16,10 +16,10 @@ Facebook opened up their ReTargeting Platform to all advertisers from Jan 2014.
 
 The Invisible Optin Plugin helps you integrate Facebook's ReTargeting Code in your WordPress Website in just few clicks.
 
-If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a ReTargeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://goo.gl/JVb4hx
+If you are into Affiliate Marketing or Internet Marketing & looking for Advance features such as making a ReTargeting list of People clicking on External(Affiliate) Links, then you should check out the Pro Version of this Plugin on http://goo.gl/vzPT2f
 
 
-To Learn Facebook Re-Targeting from Scratch, visit http://goo.gl/ozEBqh
+To Learn Facebook Re-Targeting from Scratch, visit http://goo.gl/kO34lK
 
 
 
@@ -51,7 +51,7 @@ The Invisible Optin Plugin helps to integrate the Re-Marketing Code given by Fac
 
 Q. Where can i learn Facebook Re-Marketing ?
 
-Visit http://goo.gl/ozEBqh
+Visit http://goo.gl/kO34lK
 
 == Screenshots ==
 
